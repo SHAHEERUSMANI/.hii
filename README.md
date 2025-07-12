@@ -62,6 +62,8 @@ seaborn
 joblib
 streamlit
 Pillow
+pip install -r requirements.txt
+
 
 ```
 
