@@ -62,11 +62,12 @@ seaborn
 joblib
 streamlit
 Pillow
-pip install -r requirements.txt
-
-
 ```
+### Install dependencies:
+````
+!pip install -r requirements.txt
 
+````
 ###  Usage
 
 Upload an MRI image via the Streamlit web interface.
